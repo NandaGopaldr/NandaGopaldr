@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/nanda-gopal-d-r-3b44a7268](www.linkedin.com/in/nanda-gopal-d-r-3b44a7268)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nandagopaldr/]
 
 - 💬 Ask me about **Python, C and Java**
 
