@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://[linkedin.com/in/nanda gopal d.r](https://www.linkedin.com/in/nandagopaldr/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nanda gopal d.r" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nandagopaldr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nanda gopal d.r" height="30" width="40" /></a>
 <a href="https://instagram.com/dr__nandagopal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dr__nandagopal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/nandagopalng33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/nandagopalng33" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerrank.com/nandagopalng333?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/nandagopalng333?hr_r=1" height="30" width="40" /></a>
